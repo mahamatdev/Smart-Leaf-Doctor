@@ -142,11 +142,8 @@ lib/
 Here are some views of the Smart Leaf Doctor application:
 
 <p align="center">
-  <img src="images/1.jpeg" width="200" height="300" alt="Home Screen"/>
-  <img src="images/2.jpeg" width="200" height="300" alt="Scan or Upload Leaf"/>
-</p>
-
-<p align="center">
+  <img src="images/1.jpeg" width="200" alt="Home Screen"/>
+  <img src="images/2.jpeg" width="200"  alt="Scan or Upload Leaf"/>
   <img src="images/3.jpeg" width="200" alt="Best Practices"/>
   <img src="images/4.jpeg" width="200" alt="Settings"/>
 </p>
@@ -154,9 +151,6 @@ Here are some views of the Smart Leaf Doctor application:
 <p align="center">
   <img src="images/5.jpeg" width="200" alt="Analysis Result (healthy)"/>
   <img src="images/6.jpeg" width="200" alt="Analysis Result (diseased)"/>
-</p>
-
-<p align="center">
   <img src="images/7.jpeg" width="200" alt="History"/>
 </p>
 
