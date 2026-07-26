@@ -142,22 +142,22 @@ lib/
 Here are some views of the Smart Leaf Doctor application:
 
 <p align="center">
-  <img src="images/1.jpg" width="250" alt="Home Screen"/>
-  <img src="images/2.jpg" width="250" alt="Scan or Upload Leaf"/>
+  <img src="images/1.jpeg" width="250" alt="Home Screen"/>
+  <img src="images/2.jpeg" width="250" alt="Scan or Upload Leaf"/>
 </p>
 
 <p align="center">
-  <img src="images/3.jpg" width="250" alt="Best Practices"/>
-  <img src="images/4.jpg" width="250" alt="Settings"/>
+  <img src="images/3.jpeg" width="250" alt="Best Practices"/>
+  <img src="images/4.jpeg" width="250" alt="Settings"/>
 </p>
 
 <p align="center">
-  <img src="images/5.jpg" width="250" alt="Analysis Result (healthy)"/>
-  <img src="images/6.jpg" width="250" alt="Analysis Result (diseased)"/>
+  <img src="images/5.jpeg" width="250" alt="Analysis Result (healthy)"/>
+  <img src="images/6.jpeg" width="250" alt="Analysis Result (diseased)"/>
 </p>
 
 <p align="center">
-  <img src="images/7.jpg" width="250" alt="History"/>
+  <img src="images/7.jpeg" width="250" alt="History"/>
 </p>
 
 ---
