@@ -142,8 +142,8 @@ lib/
 Here are some views of the Smart Leaf Doctor application:
 
 <p align="center">
-  <img src="images/1.jpeg" width="200" height="100" alt="Home Screen"/>
-  <img src="images/2.jpeg" width="200" height="100" alt="Scan or Upload Leaf"/>
+  <img src="images/1.jpeg" width="200" height="300" alt="Home Screen"/>
+  <img src="images/2.jpeg" width="200" height="300" alt="Scan or Upload Leaf"/>
 </p>
 
 <p align="center">
