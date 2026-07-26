@@ -1,3 +1,9 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-orange)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/mahamatdev/Smart-Leaf-Doctor?style=social)
+
+
 # 🌿 Smart Leaf Doctor
 
 An AI-powered mobile application for detecting crop leaf diseases using Machine Learning.
