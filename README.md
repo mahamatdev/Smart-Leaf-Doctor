@@ -142,23 +142,34 @@ lib/
 Here are some views of the Smart Leaf Doctor application:
 
 <p align="center">
-  <img src="images/1.jpg" width="250" alt="App Screenshot 1"/>
-  <img src="images/2.jpg" width="250" alt="App Screenshot 2"/>
+  <img src="images/1.jpg" width="250" alt="Home Screen"/>
+  <img src="images/2.jpg" width="250" alt="Scan or Upload Leaf"/>
 </p>
 
 <p align="center">
-  <img src="images/3.jpg" width="250" alt="App Screenshot 3"/>
-  <img src="images/4.jpg" width="250" alt="App Screenshot 4"/>
+  <img src="images/3.jpg" width="250" alt="Best Practices"/>
+  <img src="images/4.jpg" width="250" alt="Settings"/>
 </p>
 
 <p align="center">
-  <img src="images/5.jpg" width="250" alt="App Screenshot 5"/>
-  <img src="images/6.jpg" width="250" alt="App Screenshot 6"/>
+  <img src="images/5.jpg" width="250" alt="Analysis Result (healthy)"/>
+  <img src="images/6.jpg" width="250" alt="Analysis Result (diseased)"/>
 </p>
 
 <p align="center">
-  <img src="images/7.jpg" width="250" alt="App Screenshot 7"/>
+  <img src="images/7.jpg" width="250" alt="History"/>
 </p>
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+- Fork the repository  
+- Create a new branch (`git checkout -b feature-branch`)  
+- Make your changes  
+- Commit (`git commit -m "Add new feature"`)  
+- Push (`git push origin feature-branch`)  
+- Open a Pull Request
 
 ---
 
@@ -188,7 +199,21 @@ University of Kigali
 
 ## 📄 License
 
-This project is developed for educational and research purposes.
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
