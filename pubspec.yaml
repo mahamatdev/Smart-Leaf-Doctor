@@ -1,0 +1,58 @@
+name: ai_leaf_detector
+description: A Flutter app for detecting crop diseases using AI models.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.9.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.0.2
+  pdf: ^3.10.1
+  printing: ^5.10.0
+  share_plus: ^12.0.1
+  get_storage: ^2.1.1
+  lottie: ^2.6.0
+  tflite_flutter: ^0.11.0
+  image_picker: ^1.1.2
+  path_provider: ^2.1.5
+  path: ^1.9.0
+  get: ^4.6.6
+  syncfusion_flutter_gauges: ^28.2.12
+  google_fonts: ^6.2.1
+  flutter_localizations:
+    sdk: flutter
+  image: ^4.3.0
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon8.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/newlogo.png
+    - assets/scan_animation.json
+    - assets/model/best_float32.tflite
+    - assets/model/labels.txt
+    - assets/test/test1.jpeg
+    - assets/fonts/RobotoCondensed-Bold.ttf
+    - assets/fonts/RobotoCondensed-Italic.ttf
+    - assets/fonts/RobotoCondensed-Regular.ttf
+    - assets/icon8.png
+
+  fonts:
+    - family: RobotoCondensed
+      fonts:
+        - asset: assets/fonts/RobotoCondensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/RobotoCondensed-Italic.ttf
+          style: italic
+        - asset: assets/fonts/RobotoCondensed-Regular.ttf
